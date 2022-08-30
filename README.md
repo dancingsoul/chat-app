@@ -34,4 +34,4 @@
 | room      | references  | null: false, foreign_key: true |
 
 - belongs_to :room
-- belongs_to :user
+- belongs_to :user  v
